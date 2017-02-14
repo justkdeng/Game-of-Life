@@ -4,9 +4,7 @@ The input should be a .txt file in the following format:
 
 ```
 number of iterations
-
 width height
-
 starting matrix
 ```
 
