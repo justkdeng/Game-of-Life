@@ -1,5 +1,5 @@
 # Game-of-Life
-This is a game of life simulation that prints out each iteration of the simulation.
+This is a game of life simulation that prints out each iteration of the simulation, starting with the original board.
 The input should be a .txt file in the following format:
 
 ```
